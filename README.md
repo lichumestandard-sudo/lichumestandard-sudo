@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hi, I'm Lichume 👋</h1>
+﻿<h1 align="center">Hi, I'm Lichume</h1>
 <p align="center">Systems Development graduate turned software craftsman-in-training</p>
 
 ## About Me
