@@ -28,10 +28,9 @@ A Firebase Authentication gateway restricted to verified student emails, with em
 
 ## GitHub Stats
 
-![Lichume's GitHub stats](https://github-readme-stats.vercel.app/api?username=lichumestandard-sudo&show_icons=true&theme=radical)
+![Lichume's GitHub stats](https://github-readme-stats.vercel.app/api?username=lichumestandard-sudo&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichumestandard-sudo&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lichumestandard-sudo&layout=compact&theme=dark)
 ## Let's Connect
 
 📫 Reach me at lichumestandard@gmail.com
